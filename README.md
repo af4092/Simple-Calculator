@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/24220136/222895887-f81f0102-954b-4493-830f-6e78c1727b43.png" alt="Image">
 </p>
 
-- Made some UI changes, result as follows: 
+- Made some UI changes, result as following: 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24220136/224937347-f1d8a57d-e076-4989-bd54-7390d936f5c7.png" alt="Image">
