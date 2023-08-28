@@ -1,11 +1,11 @@
 # Simple-Calculator
-Simple Calculator built with eclipse window builder
+- Simple Calculator built with Eclipse window builder
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24220136/222349940-2a0b1a8b-7dd1-4017-80e7-a46daf4d863b.png" alt="Image">
 </p>
 
-- After optimizing the app, updated image
+- After optimizing the app, updated image is as following:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24220136/222895887-f81f0102-954b-4493-830f-6e78c1727b43.png" alt="Image">
