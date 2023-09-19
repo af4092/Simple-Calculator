@@ -32,4 +32,3 @@
   - The `Optimization` class represents the main window of the calculator application.
 
 - To run this code, we need to have the necessary dependencies for Java Swing and compile and execute the code using a Java development environment.
-- This is the Test to clone, push and pull on Mac and GitHub
